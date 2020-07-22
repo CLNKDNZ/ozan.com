@@ -1,0 +1,13 @@
+com/ozan/exchangeApp/exchangeApp/services/ConversionServiceImpl.class
+com/ozan/exchangeApp/exchangeApp/models/ConvertExchangeRequestModel.class
+com/ozan/exchangeApp/exchangeApp/resources/ExchangeAPIResource.class
+com/ozan/exchangeApp/exchangeApp/enums/Currency.class
+com/ozan/exchangeApp/exchangeApp/services/ConversionListServiceImpl.class
+com/ozan/exchangeApp/exchangeApp/ExchangeAppApplication.class
+com/ozan/exchangeApp/exchangeApp/repository/ExchangeRepository.class
+com/ozan/exchangeApp/exchangeApp/services/ConversionService.class
+com/ozan/exchangeApp/exchangeApp/configration/ExchangeRateProperties.class
+com/ozan/exchangeApp/exchangeApp/services/ExchangeRateService.class
+com/ozan/exchangeApp/exchangeApp/entities/ExchangeEntity.class
+com/ozan/exchangeApp/exchangeApp/services/ConversionListService.class
+com/ozan/exchangeApp/exchangeApp/services/ExchangeRateServiceImpl.class

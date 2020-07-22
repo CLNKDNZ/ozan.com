@@ -1,0 +1,13 @@
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/repository/ExchangeRepository.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/enums/Currency.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/resources/ExchangeAPIResource.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/services/ExchangeRateService.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/ExchangeAppApplication.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/entities/ExchangeEntity.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/services/ConversionListService.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/models/ConvertExchangeRequestModel.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/services/ConversionService.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/configration/ExchangeRateProperties.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/services/ExchangeRateServiceImpl.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/services/ConversionServiceImpl.java
+/Users/denizcelenk/Downloads/exchangeApp/src/main/java/com/ozan/exchangeApp/exchangeApp/services/ConversionListServiceImpl.java
